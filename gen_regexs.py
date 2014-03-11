@@ -2,7 +2,7 @@ import sys
 
 def get_regex(word):
    regexs = []
-   for i in range(0, len(word)-4):
+   for i in range(0, len(word)-3):
      for j in range(i+4, len(word)+1):
        regexs.append(word[i:j])
    return regexs

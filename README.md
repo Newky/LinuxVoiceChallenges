@@ -12,25 +12,36 @@ You need to have python installed to generate the regexs.
 
 Timed on my thinkpad machine:
 
-    time cat wordsearch.txt | bash grepper.sh 
+    $ time cat wordsearch.txt | bash grepper.sh 
+    ell
     hell
     hello
+    bin
     binary
     nary
+    hat
+    his
+    nth
     sent
+    that
     this
     coffee
+    fee
+    off
     scoff
+    hot
+    nip
     photo
     light
     sock
     socket
     bicycle
     cycle
-    
-    real    0m0.137s
-    user    0m0.092s
-    sys 0m0.024s
+    icy
+
+    real    0m0.133s
+    user    0m0.084s
+    sys 0m0.020s
 
 ## How it works
 

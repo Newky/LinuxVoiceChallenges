@@ -7,3 +7,5 @@ This program takes a csv file and renders a pretty bar chart using the turtle mo
 Example usage:
 
 cat test.csv | python2.7 bars.py
+
+Screenshot:

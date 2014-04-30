@@ -8,5 +8,4 @@ Example usage:
 
 cat test.csv | python2.7 bars.py
 
-Screenshot:
 ![Screenshot](https://raw.githubusercontent.com/Newky/LinuxVoiceChallenges/master/ch02/screenshot.png)
